@@ -29,24 +29,24 @@ export default function ProductDetails() {
           <div className="product-images">
             <div className="image-container">
               <img
-                src="/huddie_black.jpg"
+                src="/assests/huddie_black.jpg"
                 alt="Product Image"
                 className="product-image"
               />
             </div>
             <div className="images">
               <img
-                src="/product_img1.jpg"
+                src="/assests/product_img1.jpg"
                 alt="Product Image"
                 className="product-image"
               />
               <img
-                src="/product_img2.jpg"
+                src="/assests/product_img2.jpg"
                 alt="Product Image"
                 className="product-image"
               />
               <img
-                src="/product_img2.jpg"
+                src="/assests/product_img2.jpg"
                 alt="Product Image"
                 className="product-image"
               />
